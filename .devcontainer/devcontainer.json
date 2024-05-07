@@ -1,6 +1,6 @@
 {
   "name": "ollama-docker",
-  "dockerComposeFile": ["../docker-compose.yml"],
+  "dockerComposeFile": ["../docker-compose-ollama-gpu.yml"],
   "service": "app",
   "workspaceFolder": "/code",
   "customizations": {
